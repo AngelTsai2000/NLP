@@ -1,0 +1,155 @@
+{
+  "cat": [
+    {
+      "num": 1,
+      "pos": "noun",
+      "eng_def": "a small animal with fur, four legs, a tail, and claws, usually kept as a pet or for catching mice ",
+      "chi_def": "\u8c93",
+      "eg": null
+    },
+    {
+      "num": 2,
+      "pos": "noun",
+      "eng_def": "any member of the group of animals similar to the cat, such as the lion",
+      "chi_def": "\u8c93\u79d1\u52d5\u7269",
+      "eg": "the cat family "
+    }
+  ],
+  "dog": [
+    {
+      "num": 1,
+      "pos": "noun",
+      "eng_def": "a common animal with four legs, especially kept by people as a pet or to hunt or guard things",
+      "chi_def": "\uff08\u5c24\u6307\u7576\u4f5c\u5bf5\u7269\u6216\u7528\u4f86\u6253\u7375\u3001\u770b\u8b77\u7684\uff09\u72d7\uff0c\u72ac",
+      "eg": "my pet dog"
+    },
+    {
+      "num": 2,
+      "pos": "noun",
+      "eng_def": "a man who is unpleasant or not to be trusted",
+      "chi_def": "\u8a0e\u53ad\u7684\u50a2\u5925\uff0c\u60f9\u4eba\u7169\u7684\u50a2\u5925\uff1b\u5931\u4fe1\u8005",
+      "eg": "He tried to steal my money, the dirty dog."
+    },
+    {
+      "num": 3,
+      "pos": "noun",
+      "eng_def": "a woman who is not attractive",
+      "chi_def": "\u919c\u5973",
+      "eg": null
+    },
+    {
+      "num": 4,
+      "pos": "verb",
+      "eng_def": "to follow someone closely and continuously",
+      "chi_def": "\u8ddf\u96a8\uff1b\u8ddf\u8e64",
+      "eg": "Reporters dogged him for answers."
+    },
+    {
+      "num": 5,
+      "pos": "verb",
+      "eng_def": "to cause difficulties",
+      "chi_def": "\u56f0\u64fe\uff0c\u963b\u7919",
+      "eg": "Technical problems dogged our trip from the outset."
+    }
+  ],
+  "cool": [
+    {
+      "num": 1,
+      "pos": "adjective",
+      "eng_def": "slightly cold",
+      "chi_def": "\u6dbc\u7684\uff0c\u51b7\u7684",
+      "eg": "cool water"
+    },
+    {
+      "num": 2,
+      "pos": "adjective",
+      "eng_def": "slightly cold in a pleasant way",
+      "chi_def": "\u6dbc\u723d\u7684\uff0c\u6dbc\u5feb\u7684",
+      "eg": "It was a lovely cool evening."
+    },
+    {
+      "num": 3,
+      "pos": "adjective",
+      "eng_def": "used to describe a temperature that is slightly too cold",
+      "chi_def": "\uff08\u6c23\u6eab\uff09\u7a0d\u51b7\u7684\uff0c\u6dbc\u7684",
+      "eg": "It's a bit cool in here, isn't it? I think I'll close the window."
+    },
+    {
+      "num": 4,
+      "pos": "adjective",
+      "eng_def": "calm and not worried or frightened; not influenced by strong feeling of any kind",
+      "chi_def": "\u51b7\u975c\u7684\uff0c\u6c88\u8457\u7684\uff0c\u5f9e\u5bb9\u7684",
+      "eg": "He was very cool when we broke the window, and didn't shout or get mad."
+    },
+    {
+      "num": 5,
+      "pos": "adjective",
+      "eng_def": "to be happy to accept a situation or suggestion",
+      "chi_def": "\u6a02\u65bc\u63a5\u53d7\uff08\u67d0\u4e00\u60c5\u6cc1\u6216\u5efa\u8b70\uff09",
+      "eg": "Yeah, we could leave later - I'm cool with that."
+    },
+    {
+      "num": 6,
+      "pos": "adjective",
+      "eng_def": "Cool colours, such as blue or green, make you feel calm and relaxed.",
+      "chi_def": "\uff08\u9854\u8272\uff09\u51b7\u8272\u8abf\u7684\uff0c\u7d66\u4eba\u6dbc\u723d\u611f\u89ba\u7684",
+      "eg": "The bedroom was painted a lovely cool blue."
+    },
+    {
+      "num": 7,
+      "pos": "adjective",
+      "eng_def": "unfriendly or not showing kindness or interest in something or someone",
+      "chi_def": "\u4e0d\u53cb\u597d\u7684\uff1b\u51b7\u6de1\u7684\uff1b\u51b7\u6f20\u7684",
+      "eg": "She was decidedly cool towards me."
+    },
+    {
+      "num": 8,
+      "pos": "adjective",
+      "eng_def": "fashionable or attractive",
+      "chi_def": "\u6642\u9ae6\u7684\uff1b\u5438\u5f15\u4eba\u7684\uff1b\u9177\u7684",
+      "eg": "Angie's got some cool new sunglasses."
+    },
+    {
+      "num": 9,
+      "pos": "adjective",
+      "eng_def": "excellent; very good",
+      "chi_def": "\u597d\u6975\u4e86\uff08\u7684\uff09\uff0c\u68d2\u6975\u4e86\uff08\u7684\uff09\uff0c\u9802\u5471\u5471\uff08\u7684\uff09",
+      "eg": "\"So how was the concert?\" \"It was cool!\""
+    },
+    {
+      "num": 10,
+      "pos": "noun",
+      "eng_def": "the pleasant, slightly cold temperature of a place",
+      "chi_def": "\u6dbc\u5feb\uff0c\u6dbc\u723d",
+      "eg": "He loved the cool of the early morning."
+    },
+    {
+      "num": 11,
+      "pos": "noun",
+      "eng_def": "a person's ability to stay calm and not become angry or excited",
+      "chi_def": "\u51b7\u975c\uff0c\u6c89\u8457\uff0c\u5f9e\u5bb9",
+      "eg": "keep your cool"
+    },
+    {
+      "num": 12,
+      "pos": "verb",
+      "eng_def": "to become or cause something to become slightly colder",
+      "chi_def": "\uff08\u4f7f\uff09\u51b7\u537b\uff1b\uff08\u4f7f\uff09\u8b8a\u6dbc\uff1b\uff08\u4f7f\uff09\u6dbc\u723d",
+      "eg": "Leave the cake to cool for an hour before cutting it."
+    },
+    {
+      "num": 13,
+      "pos": "verb",
+      "eng_def": "If a feeling cools or cools off, it starts to become less strong.",
+      "chi_def": "\uff08\u611f\u60c5\uff09\u51b7\u975c\u4e0b\u4f86\uff0c\u5e73\u975c\u4e0b\u4f86\uff0c\u51b7\u6de1\u4e0b\u4f86",
+      "eg": "They were completely in love in the beginning, but I think it's starting to cool off now."
+    },
+    {
+      "num": 14,
+      "pos": "verb",
+      "eng_def": "If the economy, a business, etc. cools or cools off, it grows less fast than before.",
+      "chi_def": "\uff08\u7d93\u6fdf\u3001\u751f\u610f\u7b49\uff09\u767c\u5c55\u653e\u7de9\u7684",
+      "eg": "The stock market has cooled off after hitting new highs last week."
+    }
+  ]
+}
