@@ -194,7 +194,7 @@ def app2():
                 
     else:
         with st.form(key='form4'):
-            input_question = st.text_area(label="Question", height = 300, value=rand_question)
+            input_question = st.text_area(label="Question", height = 300)
             col1, col2 = st.columns(2)
             with col1:
                 words[0] = st.text_input(label="word1")
